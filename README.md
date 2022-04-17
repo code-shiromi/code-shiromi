@@ -1,2 +1,1 @@
-# code-shiromi
- About Shiromi
+Hi, I'm Shiromi
