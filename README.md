@@ -46,83 +46,83 @@ COLOR PALETTES 2022
     </tr>
     <tr>
         <td bgcolor="#f08c8c">
-        <img src="https://via.placeholder.com/15/f08c8c/000000?text=+" height="auto" width="30px" />
+        <img src="https://via.placeholder.com/15/f08c8c/000000?text=+" height="45px" width="45px" />
         </td>
         <td bgcolor="#86fcce">
-        <img src="https://via.placeholder.com/15/86fcce/000000?text=+" height="auto" width="30px" />
+        <img src="https://via.placeholder.com/15/86fcce/000000?text=+" height="45px" width="45px" />
         </td>
         <td bgcolor="#aaa7d9">
-        <img src="https://via.placeholder.com/15/aaa7d9/000000?text=+" height="auto" width="30px" />
+        <img src="https://via.placeholder.com/15/aaa7d9/000000?text=+" height="45px" width="45px" />
         </td>
         <td bgcolor="#d9ceb2">
-        <img src="https://via.placeholder.com/15/d9ceb2/000000?text=+" height="auto" width="30px" />
+        <img src="https://via.placeholder.com/15/d9ceb2/000000?text=+" height="45px" width="45px" />
         </td>
         <td bgcolor="#c3fcc0">
-        <img src="https://via.placeholder.com/15/c3fcc0/000000?text=+" height="auto" width="30px" />
+        <img src="https://via.placeholder.com/15/c3fcc0/000000?text=+" height="45px" width="45px" />
         </td>
     </>
         <td bgcolor="#ae4af0">
-        <img src="https://via.placeholder.com/15/ae4af0/000000?text=+" height="auto" width="30px" />
+        <img src="https://via.placeholder.com/15/ae4af0/000000?text=+" height="45px" width="45px" />
         </td>
         <td bgcolor="#f056c7">
-        <img src="https://via.placeholder.com/15/f056c7/000000?text=+" height="auto" width="30px" />
+        <img src="https://via.placeholder.com/15/f056c7/000000?text=+" height="45px" width="45px" />
         </td>
         <td bgcolor="#f0d962">
-        <img src="https://via.placeholder.com/15/f0d962/000000?text=+" height="auto" width="30px" />
+        <img src="https://via.placeholder.com/15/f0d962/000000?text=+" height="45px" width="45px" />
         </td>
         <td bgcolor="#51f032">
-        <img src="https://via.placeholder.com/15/51f032/000000?text=+" height="auto" width="30px" />
+        <img src="https://via.placeholder.com/15/51f032/000000?text=+" height="45px" width="45px" />
         </td>
         <td bgcolor="#483ef0">
-        <img src="https://via.placeholder.com/15/483ef0/000000?text=+" height="auto" width="30px" />
+        <img src="https://via.placeholder.com/15/483ef0/000000?text=+" height="45px" width="45px" />
         </td>
     </>
         <td bgcolor="#f0ab3c">
-        <img src="https://via.placeholder.com/15/f0ab3c/000000?text=+" height="auto" width="30px" />
+        <img src="https://via.placeholder.com/15/f0ab3c/000000?text=+" height="45px" width="45px" />
         </td>
         <td bgcolor="#3260fc">
-        <img src="https://via.placeholder.com/15/3260fc/000000?text=+" height="auto" width="30px" />
+        <img src="https://via.placeholder.com/15/3260fc/000000?text=+" height="45px" width="45px" />
         </td>
         <td bgcolor="#d95fa2">
-        <img src="https://via.placeholder.com/15/d95fa2/000000?text=+" height="auto" width="30px" />
+        <img src="https://via.placeholder.com/15/d95fa2/000000?text=+" height="45px" width="45px" />
         </td>
         <td bgcolor="#9ad96a">
-        <img src="https://via.placeholder.com/15/9ad96a/000000?text=+" height="auto" width="30px" />
+        <img src="https://via.placeholder.com/15/9ad96a/000000?text=+" height="45px" width="45px" />
         </td>
         <td bgcolor="#6de4fc">
-        <img src="https://via.placeholder.com/15/6de4fc/000000?text=+" height="auto" width="30px" />
+        <img src="https://via.placeholder.com/15/6de4fc/000000?text=+" height="45px" width="45px" />
         </td>
     </>
         <td bgcolor="#f04991">
-        <img src="https://via.placeholder.com/15/f04991/000000?text=+" height="auto" width="30px" />
+        <img src="https://via.placeholder.com/15/f04991/000000?text=+" height="45px" width="45px" />
         </td>
         <td bgcolor="#702244">
-        <img src="https://via.placeholder.com/15/702244/000000?text=+" height="auto" width="30px" />
+        <img src="https://via.placeholder.com/15/702244/000000?text=+" height="45px" width="45px" />
         </td>
         <td bgcolor="#f291bb">
-        <img src="https://via.placeholder.com/15/f291bb/000000?text=+" height="auto" width="30px" />
+        <img src="https://via.placeholder.com/15/f291bb/000000?text=+" height="45px" width="45px" />
         </td>
         <td bgcolor="#704357">
-        <img src="https://via.placeholder.com/15/704357/000000?text=+" height="auto" width="30px" />
+        <img src="https://via.placeholder.com/15/704357/000000?text=+" height="45px" width="45px" />
         </td>
         <td bgcolor="#bd3972">
-        <img src="https://via.placeholder.com/15/bd3972/000000?text=+" height="auto" width="30px" />
+        <img src="https://via.placeholder.com/15/bd3972/000000?text=+" height="45px" width="45px" />
         </td>
     </>
         <td bgcolor="#94f0e0">
-        <img src="https://via.placeholder.com/15/94f0e0/000000?text=+" height="auto" width="30px" />
+        <img src="https://via.placeholder.com/15/94f0e0/000000?text=+" height="45px" width="45px" />
         </td>
         <td bgcolor="#467069">
-        <img src="https://via.placeholder.com/15/467069/000000?text=+" height="auto" width="30px" />
+        <img src="https://via.placeholder.com/15/467069/000000?text=+" height="45px" width="45px" />
         </td>
         <td bgcolor="#4ef2d7">
-        <img src="https://via.placeholder.com/15/4ef2d7/000000?text=+" height="auto" width="30px" />
+        <img src="https://via.placeholder.com/15/4ef2d7/000000?text=+" height="45px" width="45px" />
         </td>
         <td bgcolor="#247063">
-        <img src="https://via.placeholder.com/15/247063/000000?text=+" height="auto" width="30px" />
+        <img src="https://via.placeholder.com/15/247063/000000?text=+" height="45px" width="45px" />
         </td>
         <td bgcolor="#75bdb1">
-        <img src="https://via.placeholder.com/15/75bdb1/000000?text=+" height="auto" width="30px" />
+        <img src="https://via.placeholder.com/15/75bdb1/000000?text=+" height="45px" width="45px" />
         </td>
     </tr>
 </table>
