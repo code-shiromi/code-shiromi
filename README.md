@@ -21,7 +21,7 @@ PROJECTS
     </p><p align="center">
         <b>Very beautiful, very powerful.</b>
     </p><p align="center" style="font-size: 0.73em">
-        Illustration by <b>いちまる</b> | メインサイト： <a href="https://sayuri.works">sayuri.works</a> (開発中)
+        Illustration by <b>いちまる</b> | メインサイト： <img src="https://tokyo.s3.463.fish/assets/sayuri/favicon_01.png" height="auto" width="16px" / ><a href="https://sayuri.works">sayuri.works</a> (開発中)
     </p>
 </td>
 
@@ -49,83 +49,83 @@ COLOR PALETTES 2022
     </tr>
     <tr>
         <td bgcolor="#f08c8c">
-        <img src="https://via.placeholder.com/15/f03c15/f08c8c?text=+" />
+        <img src="https://via.placeholder.com/15/f08c8c/000000?text=+" />
         </td>
         <td bgcolor="#86fcce">
-        <img src="https://via.placeholder.com/15/f03c15/86fcce?text=+" />
+        <img src="https://via.placeholder.com/15/86fcce/000000?text=+" />
         </td>
         <td bgcolor="#aaa7d9">
-        <img src="https://via.placeholder.com/15/f03c15/aaa7d9?text=+" />
+        <img src="https://via.placeholder.com/15/aaa7d9/000000?text=+" />
         </td>
         <td bgcolor="#d9ceb2">
-        <img src="https://via.placeholder.com/15/f03c15/d9ceb2?text=+" />
+        <img src="https://via.placeholder.com/15/d9ceb2/000000?text=+" />
         </td>
         <td bgcolor="#c3fcc0">
-        <img src="https://via.placeholder.com/15/f03c15/c3fcc0?text=+" />
+        <img src="https://via.placeholder.com/15/c3fcc0/000000?text=+" />
         </td>
     <td ></td>
         <td bgcolor="#ae4af0">
-        <img src="https://via.placeholder.com/15/f03c15/ae4af0?text=+" />
+        <img src="https://via.placeholder.com/15/ae4af0/000000?text=+" />
         </td>
         <td bgcolor="#f056c7">
-        <img src="https://via.placeholder.com/15/f03c15/f056c7?text=+" />
+        <img src="https://via.placeholder.com/15/f056c7/000000?text=+" />
         </td>
         <td bgcolor="#f0d962">
-        <img src="https://via.placeholder.com/15/f03c15/f0d962?text=+" />
+        <img src="https://via.placeholder.com/15/f0d962/000000?text=+" />
         </td>
         <td bgcolor="#51f032">
-        <img src="https://via.placeholder.com/15/f03c15/51f032?text=+" />
+        <img src="https://via.placeholder.com/15/51f032/000000?text=+" />
         </td>
         <td bgcolor="#483ef0">
-        <img src="https://via.placeholder.com/15/f03c15/483ef0?text=+" />
+        <img src="https://via.placeholder.com/15/483ef0/000000?text=+" />
         </td>
     <td ></td>
         <td bgcolor="#f0ab3c">
-        <img src="https://via.placeholder.com/15/f03c15/f0ab3c?text=+" />
+        <img src="https://via.placeholder.com/15/f0ab3c/000000?text=+" />
         </td>
         <td bgcolor="#3260fc">
-        <img src="https://via.placeholder.com/15/f03c15/3260fc?text=+" />
+        <img src="https://via.placeholder.com/15/3260fc/000000?text=+" />
         </td>
         <td bgcolor="#d95fa2">
-        <img src="https://via.placeholder.com/15/f03c15/d95fa2?text=+" />
+        <img src="https://via.placeholder.com/15/d95fa2/000000?text=+" />
         </td>
         <td bgcolor="#9ad96a">
-        <img src="https://via.placeholder.com/15/f03c15/9ad96a?text=+" />
+        <img src="https://via.placeholder.com/15/9ad96a/000000?text=+" />
         </td>
         <td bgcolor="#6de4fc">
-        <img src="https://via.placeholder.com/15/f03c15/6de4fc?text=+" />
+        <img src="https://via.placeholder.com/15/6de4fc/000000?text=+" />
         </td>
     <td ></td>
         <td bgcolor="#f04991">
-        <img src="https://via.placeholder.com/15/f03c15/f04991?text=+" />
+        <img src="https://via.placeholder.com/15/f04991/000000?text=+" />
         </td>
         <td bgcolor="#702244">
-        <img src="https://via.placeholder.com/15/f03c15/702244?text=+" />
+        <img src="https://via.placeholder.com/15/702244/000000?text=+" />
         </td>
         <td bgcolor="#f291bb">
-        <img src="https://via.placeholder.com/15/f03c15/f291bb?text=+" />
+        <img src="https://via.placeholder.com/15/f291bb/000000?text=+" />
         </td>
         <td bgcolor="#704357">
-        <img src="https://via.placeholder.com/15/f03c15/704357?text=+" />
+        <img src="https://via.placeholder.com/15/704357/000000?text=+" />
         </td>
         <td bgcolor="#bd3972">
-        <img src="https://via.placeholder.com/15/f03c15/bd3972?text=+" />
+        <img src="https://via.placeholder.com/15/bd3972/000000?text=+" />
         </td>
     <td ></td>
         <td bgcolor="#94f0e0">
-        <img src="https://via.placeholder.com/15/f03c15/94f0e0?text=+" />
+        <img src="https://via.placeholder.com/15/94f0e0/000000?text=+" />
         </td>
         <td bgcolor="#467069">
-        <img src="https://via.placeholder.com/15/f03c15/467069?text=+" />
+        <img src="https://via.placeholder.com/15/467069/000000?text=+" />
         </td>
         <td bgcolor="#4ef2d7">
-        <img src="https://via.placeholder.com/15/f03c15/4ef2d7?text=+" />
+        <img src="https://via.placeholder.com/15/4ef2d7/000000?text=+" />
         </td>
         <td bgcolor="#247063">
-        <img src="https://via.placeholder.com/15/f03c15/247063?text=+" />
+        <img src="https://via.placeholder.com/15/247063/000000?text=+" />
         </td>
         <td bgcolor="#75bdb1">
-        <img src="https://via.placeholder.com/15/f03c15/75bdb1?text=+" />
+        <img src="https://via.placeholder.com/15/75bdb1/000000?text=+" />
         </td>
     </tr>
 </table>
@@ -141,12 +141,15 @@ COLOR PALETTES 2022
     ( SHIROMI | シロミ | 白彌 )
 </h3>
 <p align="center">
-    <img src="https://img.shields.io/badge/RHEL-darkred?style=flat-square&logo=redhat" />
+    <img src="https://img.shields.io/badge/RHEL-ee0000?style=flat-square&logo=redhat" />
     <img src="https://img.shields.io/badge/CentOS-blue?style=flat-square&logo=centos" />
-    <img src="https://img.shields.io/badge/Vue.js-white?style=flat-square&logo=vue.js" />
+    <img src="https://img.shields.io/badge/AWS-fc4c02?style=flat-square&logo=amazonaws" />
+    <img src="https://img.shields.io/badge/GCP-fefefe?style=flat-square&logo=googlecloud" />
+    <img src="https://img.shields.io/badge/Docker-fbfbfb?style=flat-square&logo=docker" />
+    <img src="https://img.shields.io/badge/Vue.js-f9f9f9?style=flat-square&logo=vue.js" />
     <img src="https://img.shields.io/badge/Python-6de4fc?style=flat-square&logo=python" />
     <img src="https://img.shields.io/badge/VS%20Code-blue?style=flat-square&logo=visualstudiocode" />
-    <img src="https://img.shields.io/badge/Sublime%20Text-white?style=flat-square&logo=sublimetext" />
+    <img src="https://img.shields.io/badge/Sublime%20Text-f2f2f2?style=flat-square&logo=sublimetext" />
 </p>
 
 <p>
@@ -172,28 +175,28 @@ I'm bad at programming, and my life is shit.
 
 But hold on... if you have any fun project and you think that will make my interest, you should tell me first.
 
-I'm still learning WTF ![**C++**](https://img.shields.io/badge/C++-blue?logo=cplusplus), ![**JAVA**](https://img.shields.io/badge/JAVA-orange?logo=java), and ![**TensorFlow**](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow) are.
+I'm still learning WTF **C++**, **JAVA**, and **TensorFlow** are.
 They fk my brain every day, and I don't fking know why my code is still problematic.
-And I'll have a ![**CCNA**](https://img.shields.io/badge/CCNA-white?logo=cisco) certificate one day, I believe.
+And I'll have a **CCNA** certificate one day, I believe.
 
 I thought I was smart until my doctor told me my IQ was 30.
 
-Maybe I'm stupid, but I know how to code ![**Python**](https://img.shields.io/badge/python-white?logo=python), ![**PHP**](https://img.shields.io/badge/PHP-white?logo=php), ![**JS**](https://img.shields.io/badge/JavaScript-gray?logo=javascript), ![**StackOverflow**](https://img.shields.io/badge/StackOverFlow-white?logo=stackoverflow),
-and **I can use ![LESS](https://img.shields.io/badge/LESS-gray?logo=less)**, I promise.
+Maybe I'm stupid, but I know how to code **Python**, **PHP**, **JS**, **StackOverflow**,
+and **I can use LESS**, I promise.
 
 あら嫌だなに、何で私のことを知りたいんですか？
 私のことが好き？スキル？
 私のスキルを知りたい？！ファック！
 
-今まで私は一応![**C++**](https://img.shields.io/badge/C++-blue?logo=cplusplus)、![**JAVA**](https://img.shields.io/badge/JAVA-orange?logo=java)や![**TensorFlow**](https://img.shields.io/badge/TensorFlow-white?logo=tensorflow)を習っているんですが、
+今まで私は一応**C++**、**JAVA**や**TensorFlow**を習っているんですが、
 なにが言ってんのか、さっぱり理解できません！
 
 プログラミングはむずい！数学はむずい！
 
-でもそんな**IQ30以上**の私にも![**CCNA**](https://img.shields.io/badge/CCNA-white?logo=cisco)の資格を取るつもりなんです。
+でもそんな**IQ30以上**の私にも**CCNA**の資格を取るつもりなんです。
 私の将来の夢は、まともな人間です。
 
-私が一応できる偉いことは![**Python**](https://img.shields.io/badge/python-white?logo=python)、![**PHP**](https://img.shields.io/badge/PHP-white?logo=php)、![**JS**](https://img.shields.io/badge/JavaScript-gray?logo=javascript)、![**生きる**](https://img.shields.io/badge/%E7%94%9F%E3%81%8D%E3%82%8B-white?logo=?)と![**StackOverflow**](https://img.shields.io/badge/StackOverFlow-white?logo=stackoverflow)。
+私が一応できる偉いことは**Python**、**PHP**、**JS**、**生きる**と**StackOverflow**。
 
 If you're really want to know more about me,
 もし君は私のことを本当にすごくまじで知りたいんなら、
