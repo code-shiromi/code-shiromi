@@ -127,6 +127,13 @@ COLOR PALETTES 2022
     </tr>
 </table>
 
+<!-- Highlight: Music -->
+<h3 align="center" class="subtitle">
+<img src="https://tokyo.s3.463.fish/assets/icons/cartoon_heart.svg" height="auto" width="35px"><br/>
+MUSIC SUGGEST
+</h3>
+<!-- lastfm -->
+
 <br/>
 
 <h2 align="center" class="maintitle">[ THE ME | ザ・ミー ]</h2>
