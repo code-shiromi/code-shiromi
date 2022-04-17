@@ -6,14 +6,14 @@
 PROJECTS
 </h3>
 
-<table style="margin-left: auto; margin-right: auto; width: 80%">
+<table style="margin-left: auto; margin-right: auto">
 <tr>
 
-<td style="width: 50%">
+<td>
     <img alt="Sayuri BOT" src="https://tokyo.s3.463.fish/assets/sayuri/avatar_01-rebg-center.png" height="auto" width="130px">
 </td>
 
-<td style="width: 50%">
+<td>
     <p align="center" style="padding-top: 7px">
         私が今やっているプロジェクトは、<br>
         マジ最高可愛いPOWERFULなチャットボット<b>さゆりちゃん</b>です！<br>
@@ -35,14 +35,13 @@ PROJECTS
 <img src="https://tokyo.s3.463.fish/assets/icons/cartoon_bird.svg" height="auto" width="35px"><br/>
 COLOR PALETTES 2022
 </h3>
-<table style="margin-left: auto; margin-right: auto; width: 100%">
+<table style="margin-left: auto; margin-right: auto">
     <tr style="font-size: 0.85em">
-        <th colspan="5" style="width: 17%"><b>Candy</b></th>
-        <th colspan="5" style="width: 17%"><b>Neon</b></th>
-        <th colspan="5" style="width: 17%"><b>Classic</b></th>
-        <th colspan="5" style="width: 17%"><b>Rose</b></th
-        <th colspan="1" style="width: 3%"></th>
-        <th colspan="5" style="width: 17%"><b>Mint</b></th>
+        <th colspan="5" style="width: 20%"><b>Candy</b></th>
+        <th colspan="5" style="width: 20%"><b>Neon</b></th>
+        <th colspan="5" style="width: 20%"><b>Classic</b></th>
+        <th colspan="5" style="width: 20%"><b>Rose</b></th>
+        <th colspan="5" style="width: 20%"><b>Mint</b></th>
     </tr>
     <tr>
         <td bgcolor="#f08c8c">
@@ -228,5 +227,5 @@ just visit to ⇢ [shiromi.info](https://shiromi.info)<br/>
 <p align="center">
     <a href="mailto:catch@463.fish"><img src="https://img.shields.io/badge/Email-3260fc?style=for-the-badge&logo=Mail.Ru&logoColor=white" /></a>
     <a href="https://discord.gg/shiromi"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-    <a href="https://t.me/shiromi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+    <a href="https://t.me/WhiteFish_Shiromi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
