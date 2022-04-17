@@ -127,6 +127,8 @@ COLOR PALETTES 2022
     </tr>
 </table>
 
+<br/>
+
 <!-- Highlight: Music -->
 <h3 align="center" class="subtitle">
 <img src="https://tokyo.s3.463.fish/assets/icons/cartoon_heart.svg" height="auto" width="35px"><br/>
@@ -134,6 +136,7 @@ MUSIC SUGGEST
 </h3>
 <!-- lastfm -->
 <p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/f891b966aa372122b084b9882c84d915.jpg" title="Binary Haze Interactive - ENDER LILIES: Quietus of the Knights Original Soundtrack"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/b74d2000cdf6f7846d4621d2b6fd1266.png" title="アトラスサウンドチーム - 真・女神転生Ⅲ NOCTURNE サウンドコレクション"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/6e9b08379cf69b5f820431ef62ee80e1.jpg" title="Mili - Millennium Mother"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/855cd42416d4ca872ebef215c762143f.jpg" title="Jokabi - Chilltendo"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/f210280d3bd2455b9f0eb01797c5ccb1.jpg" title="Yorushika - だから僕は音楽を辞めた"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/a09d7cef99726c1a18ef6e64d7020f88.jpg" title="Yorushika - 盗作"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/e0dbdcf5ae3fa0363e286de02296e1a7.jpg" title="Yorushika - エルマ"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/57b5ef0886826a8e49cc5f000217c5cf.jpg" title="Curly - Nook & Chill"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/2789e10abca6ffe75fa261045ed4f138.jpg" title="Yorushika - 負け犬にアンコールはいらない"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/bcf0221107a9d925afafb6ccc69219ee.jpg" title="Mili - To Kill a Living Book -for Library Of Ruina-"> </p>
+
 <br/>
 
 <h2 align="center" class="maintitle">[ THE ME | ザ・ミー ]</h2>
@@ -202,10 +205,10 @@ and **I can use LESS**, I promise.
 
 私が一応できる偉いことは**Python**、**PHP**、**JS**、**生きる**と**StackOverflow**。
 
-If you're really want to know more about me,
+If you're really want to know more about me,<br/>
 もし君は私のことを本当にすごくまじで知りたいんなら、
 
-just visit to ⇢ [shiromi.info](https://shiromi.info)
+just visit to ⇢ [shiromi.info](https://shiromi.info)<br/>
 このサイトに見に行ってください ⇢ [shiromi.info](https://shiromi.info)
 
 <span style="font-size: 0.65em">
