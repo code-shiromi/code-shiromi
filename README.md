@@ -1,22 +1,3 @@
-
-![ramenTimer](https://〜.gif)
-
-<style>
-/* Basic */
-p {
-    font-size: 0.85em;
-    line-height: 1.4;
-}
-td, th {
-    border: none!important;
-}
-.maintitle {
-    font-size: 1.5em;
-}
-.subtitle {
-    font-size: 1.2em;
-}
-</style>
 <h2 align="center" class="maintitle">[ THE HIGHLIGHT | ザ・ハイライト ]</h2>
 
 <!-- Highlight: Projects -->
@@ -67,40 +48,89 @@ COLOR PALETTES 2022
         <th colspan="5" style="width: 17%"><b>Mint</b></th>
     </tr>
     <tr>
-        <td bgcolor="#f08c8c"></td>
-        <td bgcolor="#86fcce"></td>
-        <td bgcolor="#aaa7d9"></td>
-        <td bgcolor="#d9ceb2"></td>
-        <td bgcolor="#c3fcc0"></td>
+        <td bgcolor="#f08c8c">
+        <img src="https://via.placeholder.com/15/f03c15/f08c8c?text=+" />
+        </td>
+        <td bgcolor="#86fcce">
+        <img src="https://via.placeholder.com/15/f03c15/86fcce?text=+" />
+        </td>
+        <td bgcolor="#aaa7d9">
+        <img src="https://via.placeholder.com/15/f03c15/aaa7d9?text=+" />
+        </td>
+        <td bgcolor="#d9ceb2">
+        <img src="https://via.placeholder.com/15/f03c15/d9ceb2?text=+" />
+        </td>
+        <td bgcolor="#c3fcc0">
+        <img src="https://via.placeholder.com/15/f03c15/c3fcc0?text=+" />
+        </td>
     <td ></td>
-        <td bgcolor="#ae4af0"></td>
-        <td bgcolor="#f056c7"></td>
-        <td bgcolor="#f0d962"></td>
-        <td bgcolor="#51f032"></td>
-        <td bgcolor="#483ef0"></td>
+        <td bgcolor="#ae4af0">
+        <img src="https://via.placeholder.com/15/f03c15/ae4af0?text=+" />
+        </td>
+        <td bgcolor="#f056c7">
+        <img src="https://via.placeholder.com/15/f03c15/f056c7?text=+" />
+        </td>
+        <td bgcolor="#f0d962">
+        <img src="https://via.placeholder.com/15/f03c15/f0d962?text=+" />
+        </td>
+        <td bgcolor="#51f032">
+        <img src="https://via.placeholder.com/15/f03c15/51f032?text=+" />
+        </td>
+        <td bgcolor="#483ef0">
+        <img src="https://via.placeholder.com/15/f03c15/483ef0?text=+" />
+        </td>
     <td ></td>
-        <td bgcolor="#f0ab3c"></td>
-        <td bgcolor="#3260fc"></td>
-        <td bgcolor="#d95fa2"></td>
-        <td bgcolor="#9ad96a"></td>
-        <td bgcolor="#6de4fc"></td>
+        <td bgcolor="#f0ab3c">
+        <img src="https://via.placeholder.com/15/f03c15/f0ab3c?text=+" />
+        </td>
+        <td bgcolor="#3260fc">
+        <img src="https://via.placeholder.com/15/f03c15/3260fc?text=+" />
+        </td>
+        <td bgcolor="#d95fa2">
+        <img src="https://via.placeholder.com/15/f03c15/d95fa2?text=+" />
+        </td>
+        <td bgcolor="#9ad96a">
+        <img src="https://via.placeholder.com/15/f03c15/9ad96a?text=+" />
+        </td>
+        <td bgcolor="#6de4fc">
+        <img src="https://via.placeholder.com/15/f03c15/6de4fc?text=+" />
+        </td>
     <td ></td>
-        <td bgcolor="#f04991"></td>
-        <td bgcolor="#702244"></td>
-        <td bgcolor="#f291bb"></td>
-        <td bgcolor="#704357"></td>
-        <td bgcolor="#bd3972"></td>
+        <td bgcolor="#f04991">
+        <img src="https://via.placeholder.com/15/f03c15/f04991?text=+" />
+        </td>
+        <td bgcolor="#702244">
+        <img src="https://via.placeholder.com/15/f03c15/702244?text=+" />
+        </td>
+        <td bgcolor="#f291bb">
+        <img src="https://via.placeholder.com/15/f03c15/f291bb?text=+" />
+        </td>
+        <td bgcolor="#704357">
+        <img src="https://via.placeholder.com/15/f03c15/704357?text=+" />
+        </td>
+        <td bgcolor="#bd3972">
+        <img src="https://via.placeholder.com/15/f03c15/bd3972?text=+" />
+        </td>
     <td ></td>
-        <td bgcolor="#94f0e0"></td>
-        <td bgcolor="#467069"></td>
-        <td bgcolor="#4ef2d7"></td>
-        <td bgcolor="#247063"></td>
-        <td bgcolor="#75bdb1"></td>
+        <td bgcolor="#94f0e0">
+        <img src="https://via.placeholder.com/15/f03c15/94f0e0?text=+" />
+        </td>
+        <td bgcolor="#467069">
+        <img src="https://via.placeholder.com/15/f03c15/467069?text=+" />
+        </td>
+        <td bgcolor="#4ef2d7">
+        <img src="https://via.placeholder.com/15/f03c15/4ef2d7?text=+" />
+        </td>
+        <td bgcolor="#247063">
+        <img src="https://via.placeholder.com/15/f03c15/247063?text=+" />
+        </td>
+        <td bgcolor="#75bdb1">
+        <img src="https://via.placeholder.com/15/f03c15/75bdb1?text=+" />
+        </td>
     </tr>
 </table>
 
 <br/>
-<hr style="border:1px solid #4ef2d7" />
 
 <h2 align="center" class="maintitle">[ THE ME | ザ・ミー ]</h2>
 <p align="center">
