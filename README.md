@@ -134,7 +134,7 @@ COLOR PALETTES 2022
 MUSIC SUGGEST
 </h3>
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/f0eb4c6077c97fb4a82af89ef85f349c.jpg" title="Various Artists - Cyberpunk 2077: Radio, Vol. 1 (Original Soundtrack)"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/57b5ef0886826a8e49cc5f000217c5cf.jpg" title="Curly - Nook & Chill"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/efc516f507beb43ac92aee60d0ace91e.jpg" title="Jonas Munk Lindbo - Undertale & Chill"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/879ad7c45a813a03709e5804fbc74671.jpg" title="Leon Chang - re:treat"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/9666fd5ceb2bd764609d566077c98497.jpg" title="Rifti Beats - Chocobo & Chill"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/70b8772f8eccddc027c737fd1fa902ef.jpg" title="Various Artists - Cyberpunk 2077: Radio, Vol. 3 (Original Soundtrack)"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/1f423b36e6997686b377f09bc67d7ac5.jpg" title="Wizard of Loneliness - Divine Beats"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/4b9f44679c4c20960f8714c7f76e0227.jpg" title="Lofi Lia - Season One"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/49621df6445c56f0f0ebbdb8ba72407b.jpg" title="Shag - Flyrule"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/b943083a5e566c76b492168f063d5e16.jpg" title="Various Artists - Cyberpunk 2077: Radio, Vol. 2 (Original Soundtrack)"> </p>
+<p align="center"></p>
 
 <br/>
 
