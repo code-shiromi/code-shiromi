@@ -134,7 +134,7 @@ COLOR PALETTES 2022
 MUSIC SUGGEST
 </h3>
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/fde8479c22950dd4280eb11630f85ef6.jpg" title="ZUTOMAYO - ぐされ"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/c21f6080bd4bfbe21c63a5c0929a51c1.jpg" title="ZUTOMAYO - あいつら全員同窓会"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/77d721b345bbfac3a0b6c885ed831cb8.jpg" title="ZUTOMAYO - 潜潜話"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/f180b6e09609177c934c9ee63079d26c.jpg" title="ZUTOMAYO - ばかじゃないのに"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/55f3a59471c6379333652d99c0b8bfa7.jpg" title="ZUTOMAYO - ミラーチューン"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/03d7dbfa72895ea66e99182c51c98a4b.jpg" title="ZUTOMAYO - 伸び仕草懲りて暇乞い"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/03f0935aee6196af740c4e0781f0c29d.jpg" title="ZUTOMAYO - 猫リセット"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/7fe8ec3bc4ef4ee4490ca111841126f6.jpg" title="ZUTOMAYO - 袖のキルト"> </p>
 
 <br/>
 
