@@ -181,11 +181,11 @@ I'm bad at programming, and my life is shit.
 
 But hold on... if you have any fun project and you think that will make my interest, you should tell me first.
 
-I'm still learning WTF **C++**, **JAVA**, and **TensorFlow** are.
-They fk my brain every day, and I don't fking know why my code is still problematic.
-And I'll have a **CCNA** certificate one day, I believe.
+I'll have a **CCNA** certificate one day, I believe.
 
-I thought I was smart until my doctor told me my IQ was 30.
+I thought I'm smart until my doctor told me my IQ was 30.
+This is why I'm still learning WTF **C++**, **JAVA**, and **Machine Learning** are.
+They fk my brain every day, and I don't fking know why my code is still problematic.
 
 Maybe I'm stupid, but I know how to code **Python**, **PHP**, **JS**, **StackOverflow**,
 and **I can use LESS**, I promise.
@@ -194,7 +194,7 @@ and **I can use LESS**, I promise.
 私のことが好き？スキル？
 私のスキルを知りたい？！ファック！
 
-今まで私は一応**C++**、**JAVA**や**TensorFlow**を習っているんですが、
+今まで私は一応**C++**、**JAVA**や**Machine Learning**を習っているんですが、
 なにが言ってんのか、さっぱり理解できません！
 
 プログラミングはむずい！数学はむずい！
