@@ -134,7 +134,7 @@ COLOR PALETTES 2022
 MUSIC SUGGEST
 </h3>
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/470e0613ae5512b6e2921b87d46bdf43.jpg" title="Alekun - White Paper"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/33010865c8959f3ee26c701d7ce9e952.jpg" title="Lefty Hand Cream - 1LDK"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/34b9c298bdb059f470aa974d87c66b8f.jpg" title="Chata - Eclipse Kai"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/b74287a8ae624a2947ee87cd7763952f.jpg" title="riria. - silly."> <img src="https://lastfm.freetls.fastly.net/i/u/64s/3564db724fe2d44f8d3e4a6034355baf.jpg" title="shimamo - shimamo"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/eba467cf0d7587e6cb586dd1c30172e3.jpg" title="shimamo - シンシアリー"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/7e265b8547b58867e133207cf4e3e11a.jpg" title="shimamo - ふたりきりルームシアター"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/b885a105563b5a8dfaf07110d300d985.jpg" title="shimamo - 二面性スターライト"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/fef6e812faa2cf01f6a2ce1151641663.jpg" title="Wataru Sena - Sena and Uta"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/470e0613ae5512b6e2921b87d46bdf43.jpg" title="Alekun - White Paper"> </p>
 
 <br/>
 
