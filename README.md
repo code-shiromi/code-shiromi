@@ -134,7 +134,7 @@ COLOR PALETTES 2022
 MUSIC SUGGEST
 </h3>
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/470e0613ae5512b6e2921b87d46bdf43.jpg" title="Alekun - White Paper"> </p>
+<p align="center"></p>
 
 <br/>
 
