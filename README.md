@@ -134,7 +134,7 @@ COLOR PALETTES 2022
 MUSIC SUGGEST
 </h3>
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/8c42b5f314ee21ede34af42f0f4e50fb.jpg" title="Mary - 彼はきっと魔法を使う。"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/ed69b1390c26594286958f15a376dd76.jpg" title="Mary - KokodeIkiteru"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/c45de8fd8b8a147f856f8f1f1d5a8444.jpg" title="kuroneko - 嘘の火花 (Special Edition)"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/8fe8df88174f474dcf4c450c2d5c5bc1.jpg" title="noiseless-world - 2017"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/74869263d3f44a6091ae666cdd923d7e.jpg" title="Amadeus - Legendary"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/7e3f9c5da4c5195b6cd795b8c8bc0132.jpg" title="Chano - Sugar"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/1145d56e943b2f65343800d49fa99792.jpg" title="Glutamine - Journey (Limited Edition B)"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/f20dc15dea4dfd06c53d90c4fab4f834.png" title="Guiano - A"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/73baee874df4538d22aba6f886c49e1b.png" title="H△G - Everlasting Night of Teenage Girls"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/ced06092cbbbe26960faaa38a335816d.png" title="iMeiden - iMeiden Volume 3"> </p>
 
 <br/>
 
