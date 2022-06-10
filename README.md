@@ -134,7 +134,7 @@ COLOR PALETTES 2022
 MUSIC SUGGEST
 </h3>
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/4c7c928cb295f07173b9af6489c84497.jpg" title="Joanna Wang - 愛的呼喚"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/fde8479c22950dd4280eb11630f85ef6.jpg" title="ZUTOMAYO - ぐされ"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/77d721b345bbfac3a0b6c885ed831cb8.jpg" title="ZUTOMAYO - 潜潜話"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/64f15bf85982c4c05c6b522dbb83a113.jpg" title="Eve - Bubble (feat. Uta)"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/65bb92ba255da8bcc6df031cc59b6c2b.jpg" title="Eve - Kaikai Kitan / Ao No Waltz"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/b475bc78e5804edbce5744f5207b7676.png" title="Haroula Rose - These Open Roads"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/db47479317ea8d3eea1cd1945ff230ad.jpg" title="jon-YAKITORY - イート"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/4a283abc54e92e660d8ed3707bc44e20.jpg" title="Lefty Hand Cream - Lefty Hand Covers II"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/8c42b5f314ee21ede34af42f0f4e50fb.jpg" title="Mary - 彼はきっと魔法を使う。"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/69e2fdba8e79c2d9b488a9c1fd299416.jpg" title="Milet - Walkin' In My Lane"> </p>
+<p align="center"></p>
 
 <br/>
 
