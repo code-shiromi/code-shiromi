@@ -134,7 +134,7 @@ COLOR PALETTES 2022
 MUSIC SUGGEST
 </h3>
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/71ab01836a34fefaf654aa4746097094.jpg" title="jhfly - thoughts, feelings, concerns ep"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/df3212301d92fad273814b9dc501ed69.jpg" title="Kenzie Smith Piano - Video Game Music Collection Piano Solo, Vol. 1"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/e86223b16793d245f2af98f14b5cac2a.jpg" title="RM - mono."> <img src="https://lastfm.freetls.fastly.net/i/u/64s/a6c5deeff611aa6375211c3addffd12a.jpg" title="Various Artists - Steins;Gate Original Soundtrack"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/99ae58158640614ffce8d6cbbf23c99b.jpg" title="BTS - LOVE YOURSELF 結 'Answer'"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/2ae50fa295337984f5f00c4bf8658043.jpg" title="Castlevania Sound Team - Akumajo Dracula X Gekka no Nocturne Original Game Soundtrack SELECTION"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/b8a2f25fbdce30cf18e7e5ca8088b21f.png" title="DEAN - 130 mood : TRBL"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/8cb894f5228ac60063855967d7789f2e.png" title="DEAN - instagram"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/50fb0e9390275d708695562627813b34.jpg" title="lollia - Personified"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/fc6ff069c9d64d289b1372261ea7a83a.png" title="Stray Kids - Mixtape"> </p>
 
 <br/>
 
