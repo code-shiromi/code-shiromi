@@ -134,7 +134,7 @@ COLOR PALETTES 2022
 MUSIC SUGGEST
 </h3>
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1c5bd6d89b2226d83b4c32835d682f8a.jpg" title="NakamuraEmi - NIPPONNO ONNAWO UTAU BEST2"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/55491b006050bc409bd3578a7f976d1b.jpg" title="Nyarons - Highway Summer"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/2c86ad54ece9fa7d23c9146138c55e8f.png" title="Aiobahn - Never Go Back"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/20993ac5f9ef8b489bad0c444250109e.jpg" title="Drake - HONESTLY, NEVERMIND"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/65bb92ba255da8bcc6df031cc59b6c2b.jpg" title="Eve - Kaikai Kitan / Ao No Waltz"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/7536682b11549708520fb828e86aa152.jpg" title="GlitchxCity - Vibing on Outset Island"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/9ab94363509fc3ba588f6ad564587c27.jpg" title="Hikaru Station - The Best For You"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/29724d87bc79bd83214c7d5ab8477e72.jpg" title="Milkoi - Lab"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/9666fd5ceb2bd764609d566077c98497.jpg" title="Rifti Beats - Chocobo & Chill"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/9997cec046ea8a0d39707c5e12db097f.jpg" title="Seraphine - Made Me This Way"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/65bb92ba255da8bcc6df031cc59b6c2b.jpg" title="Eve - Kaikai Kitan / Ao No Waltz"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/1c5bd6d89b2226d83b4c32835d682f8a.jpg" title="NakamuraEmi - NIPPONNO ONNAWO UTAU BEST2"> </p>
 
 <br/>
 
