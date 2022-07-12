@@ -134,7 +134,7 @@ COLOR PALETTES 2022
 MUSIC SUGGEST
 </h3>
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/1c5bd6d89b2226d83b4c32835d682f8a.jpg" title="NakamuraEmi - NIPPONNO ONNAWO UTAU BEST2"> </p>
+<p align="center"></p>
 
 <br/>
 
