@@ -134,7 +134,7 @@ COLOR PALETTES 2022
 MUSIC SUGGEST
 </h3>
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/8b6cd88364f84b5fa8582d01ca990bdc.jpg" title="Mree - Winterwell"> </p>
 
 <br/>
 
