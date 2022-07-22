@@ -134,7 +134,7 @@ COLOR PALETTES 2022
 MUSIC SUGGEST
 </h3>
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/8b6cd88364f84b5fa8582d01ca990bdc.jpg" title="Mree - Winterwell"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/e03c6fe59b86f66d1b04ed7a06b66d9c.png" title="杏里 - TIMELY!!"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/b3414dd90c60139adee1c52d67f70b53.jpg" title="Junko Ohashi - ゴールデン☆ベスト 大橋純子 シングルス"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/b9273da73b38bb9c3f2dbdf03a42becf.jpg" title="Kaoru Akimoto - Cologne"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/5ff20c3872119696756f4cf3db0af12c.jpg" title="Kingo Hamada - Midnight Cruisin'"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/b6ce7531cdad0f4a5a62e8c8b705d4fb.png" title="Makoto Matsushita - FIRST LIGHT (2018 Remaster)"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/03b4b7ae49253f66a4280fc534b78952.jpg" title="Miki Matsubara - Miki Matsubara Best Collection"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/72f20c03df92ae3a29fe69b3a76ace3c.png" title="Tomoko Aran - 浮遊空間"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/a527e4dd0aecc57dd8ce21311a102a9d.jpg" title="1986 OMEGA TRIBE - Navigator"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/aca101ce73f2fe458ffe9b7eb8e00e77.jpg" title="Akina Nakamori - プロローグ〈序幕〉 AKINA NAKAMORI FIRST"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/6dba894ab291b035fff108166365455a.jpg" title="Akina Nakamori - ベスト・コレクション 〜ラブ・ソングス&ポップ・ソングス〜"> </p>
 
 <br/>
 
