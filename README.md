@@ -134,7 +134,7 @@ COLOR PALETTES 2022
 MUSIC SUGGEST
 </h3>
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/a1a9bb6c0abbc101e21e3e10155781e9.jpg" title="Sana - Hush a by little girl"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/0d099879a49067516b59d578cd2ad660.jpg" title="Kyo Hanabasami - Petrichor"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/8c42b5f314ee21ede34af42f0f4e50fb.jpg" title="Mary - 彼はきっと魔法を使う。"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/7e3f9c5da4c5195b6cd795b8c8bc0132.jpg" title="Chano - Sugar"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/e1f34b1eceeedacc39e96648a3285dc6.jpg" title="ZUTOMAYO - 朗らかな皮膚とて不服"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/52427fba613beff4cf42a830858df31c.jpg" title="dazbee - 声の在り処"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/b3ef0990d6bc3a57a407cdfb67f03235.jpg" title="Harucha - Kireina mono dake"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/f6bf0e78bbdb2af23daa09778832a51b.jpg" title="Karin Isobe - Behind (with Yuna Yoshino & Lynn)"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/4e161fa1aa6325fd9a7c0c48851e84b9.jpg" title="Kuhakugokko - A Little Bit"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/d7ab5764f2bdbdb251c9ff5de3878789.jpg" title="Kyo Hanabasami - Aonitamerau"> </p>
+<p align="center"></p>
 
 <br/>
 
