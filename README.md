@@ -134,7 +134,7 @@ COLOR PALETTES 2022
 MUSIC SUGGEST
 </h3>
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/33010865c8959f3ee26c701d7ce9e952.jpg" title="Lefty Hand Cream - 1LDK"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/4a283abc54e92e660d8ed3707bc44e20.jpg" title="Lefty Hand Cream - Lefty Hand Covers II"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/2d956e42c1580deb21af81e0189a8620.jpg" title="dazbee - Remindful.Two"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/8c42b5f314ee21ede34af42f0f4e50fb.jpg" title="Mary - 彼はきっと魔法を使う。"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/edbcf08c295304027d134af25abf0383.jpg" title="Various Artists - 初音ミク「マジカルミライ 2014」 [Live]"> </p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/4a283abc54e92e660d8ed3707bc44e20.jpg" title="Lefty Hand Cream - Lefty Hand Covers II"> </p>
 
 <br/>
 
