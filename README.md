@@ -134,7 +134,7 @@ COLOR PALETTES 2022
 MUSIC SUGGEST
 </h3>
 <!-- lastfm -->
-<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/4a283abc54e92e660d8ed3707bc44e20.jpg" title="Lefty Hand Cream - Lefty Hand Covers II"> </p>
+<p align="center"></p>
 
 <br/>
 
