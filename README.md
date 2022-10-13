@@ -134,7 +134,7 @@ COLOR PALETTES 2022
 MUSIC SUGGEST
 </h3>
 <!-- lastfm -->
-<p align="center"></p>
+<p align="center"><img src="https://lastfm.freetls.fastly.net/i/u/64s/4d9a47743f6032ff565fa59dc4d492be.jpg" title="Ai Yamamoto - Love Me Tender"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/3698894781c309865eda57f77b821298.jpg" title="Ai Yamamoto - Pan De Sonic - Iso"> <img src="https://lastfm.freetls.fastly.net/i/u/64s/67353ba87fca4f8587930a39c0a6376b.jpg" title="Ai Yamamoto - Super Eurobeat Vol.177"> </p>
 
 <br/>
 
