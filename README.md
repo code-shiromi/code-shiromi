@@ -152,6 +152,7 @@ MUSIC SUGGEST
     <img src="https://img.shields.io/badge/AWS-fc4c02?style=flat-square&logo=amazonaws" />
     <img src="https://img.shields.io/badge/GCP-fefefe?style=flat-square&logo=googlecloud" />
     <img src="https://img.shields.io/badge/Docker-fbfbfb?style=flat-square&logo=docker" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
     <img src="https://img.shields.io/badge/Vue.js-f9f9f9?style=flat-square&logo=vue.js" />
     <img src="https://img.shields.io/badge/Python-6de4fc?style=flat-square&logo=python" />
     <img src="https://img.shields.io/badge/VS%20Code-blue?style=flat-square&logo=visualstudiocode" />
@@ -159,8 +160,8 @@ MUSIC SUGGEST
 </p>
 
 <p>
-    Hi there, I'm a 17 yrs old <b>(Static)</b> kid, name is <b>Shiromi</b>, a <b>graphics designer</b> and <b>front-end developer</b>.<br/>
-    As you can see, I obviously have nothing can show you, so stop keeping browsing my repositories.<br/>
+    Hi there, I'm a 17-year-old <b>(Static)</b> kid, name is <b>Shiromi</b>, a <b>graphics designer</b> and <b>front-end developer</b>.<br/>
+    As you can see, I have nothing I can show you, so stop keeping browsing my repositories.<br/>
     That'll make me shy.</br/>
     <b>If you have anything else, just <a href="#contact">get me in touch.</a></b>
 </p>
@@ -197,21 +198,21 @@ and **I can use LESS**, I promise.
 今まで私は一応**C++**、**JAVA**や**Machine Learning**を習っているんですが、
 なにが言ってんのか、さっぱり理解できません！
 
-プログラミングはむずい！数学はむずい！
+プログラミングはむずい！ 数学はむずい！
 
 でもそんな**IQ30以上**の私にも**CCNA**の資格を取るつもりなんです。
 私の将来の夢は、まともな人間です。
 
 私が一応できる偉いことは**Python**、**PHP**、**JS**、**生きる**と**StackOverflow**。
 
-If you're really want to know more about me,<br/>
+If you really want to know more about me,<br/>
 もし君は私のことを本当にすごくまじで知りたいんなら、
 
 just visit to ⇢ [shiromi.info](https://shiromi.info)<br/>
 このサイトに見に行ってください ⇢ [shiromi.info](https://shiromi.info)
 
 <span style="font-size: 0.65em">
-(If the url is not working, that means I'm not ready to let you know me.)<br/>
+(If the URL is not working, that means I'm not ready to let you know me.)<br/>
 (URLが使えません場合は、私の事を君に教える心の準備はまだ出きっていません。)
 </span>
 </p>
@@ -220,12 +221,12 @@ just visit to ⇢ [shiromi.info](https://shiromi.info)<br/>
 
 
 <h3 align="center" id="contact" class="subtitle">
-<img src="https://tokyo.s3.463.fish/assets/icons/cartoon_chat.svg" height="auto" width="35px"><br/>
+<!--<img src="https://tokyo.s3.463.fish/assets/icons/cartoon_chat.svg" height="auto" width="35px">--><br/>
 ＣＯＮＴＡＣＴ | ご 連 絡 先 ✰
 </h3>
 
 <p align="center">
     <a href="mailto:catch@463.fish"><img src="https://img.shields.io/badge/Email-3260fc?style=for-the-badge&logo=Mail.Ru&logoColor=white" /></a>
-    <a href="https://discord.gg/shiromi"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+    <a href="https://463l.ink/discord"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href="https://t.me/WhiteFish_Shiromi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
