@@ -149,7 +149,7 @@ MUSIC SUGGEST
 <p align="center">
     <img src="https://img.shields.io/badge/RHEL-ee0000?style=flat-square&logo=redhat" />
     <img src="https://img.shields.io/badge/CentOS-blue?style=flat-square&logo=centos" />
-    <img src="https://img.shields.io/badge/AWS-fc4c02?style=flat-square&logo=amazonaws" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
     <img src="https://img.shields.io/badge/GCP-fefefe?style=flat-square&logo=googlecloud" />
     <img src="https://img.shields.io/badge/Docker-fbfbfb?style=flat-square&logo=docker" />
     <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
